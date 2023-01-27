@@ -1,0 +1,3 @@
+// Vitest Snapshot v1
+
+exports[`PokemonPicture component > Debe hacer match con el snapshot 1`] = `"<div class=\\"pokemon-container\\" data-v-34cacee9=\\"\\"><img src=\\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg\\" class=\\"hidden-pokemon\\" alt=\\"pokemon\\" data-v-34cacee9=\\"\\"></div>"`;
